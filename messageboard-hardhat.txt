@@ -1,0 +1,9 @@
+messageboard-nextjs/
+├── pages/
+│   ├── _app.tsx
+│   └── index.tsx
+├── lib/
+│   └── client.ts
+├── .env.local
+├── package.json
+└── tsconfig.json
